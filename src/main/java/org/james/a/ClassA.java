@@ -5,5 +5,6 @@ public class ClassA {
 	public void hello3() {
 		
 	}
-
+	public void hello1() {
+	}
 }
