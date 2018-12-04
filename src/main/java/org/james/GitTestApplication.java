@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class GitTestApplication {
-        // comments by feature-1.0
+  // comments after merge
 	public static void main(String[] args) {
 		SpringApplication.run(GitTestApplication.class, args);
 	}
